@@ -4,6 +4,7 @@ def mobile(brand):
 brands = "Samsung"
 
 if brands.find("oneplus") == -1:
+    mobile("OnePlus")
     if brands.find("Samsung") != -1:
         mobile("Samsung")
     else: 
