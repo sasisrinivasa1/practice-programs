@@ -33,3 +33,16 @@ print(os)
 # pop() - removes and returns the item
 print(os.pop(4))
 print(os)
+
+# OUTPUT:-
+
+# ['Windows']
+# ['Windows', 'Linux', 'Ubuntu']
+# ['Windows', 'Linux', 'Ubuntu', 'Dell', 'Lenovo', 'HP', 'Acer']
+# 2
+# 5
+# ['Windows', 'Linux', 'Ubuntu', 'Dell', 'Lenovo', 'HP']
+# ['Dell', 'HP', 'Lenovo', 'Linux', 'Ubuntu', 'Windows']
+# ['Windows', 'Ubuntu', 'Linux', 'Lenovo', 'HP', 'Dell']
+# HP
+# ['Windows', 'Ubuntu', 'Linux', 'Lenovo', 'Dell']
