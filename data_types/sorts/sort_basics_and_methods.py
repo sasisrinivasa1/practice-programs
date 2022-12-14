@@ -12,3 +12,9 @@ print(ascend_character)
 
 characters.sort()
 print(characters) # return the characters with sorting
+
+# Output:-
+# [300, 100, 87, 54, 53, 45, 44, 30, 22, 21, 10, 2]
+# [2, 10, 21, 22, 30, 44, 45, 53, 54, 87, 100, 300]
+# None
+# ['E', 'U', 'Z', 'b', 'e', 'h', 'w']
