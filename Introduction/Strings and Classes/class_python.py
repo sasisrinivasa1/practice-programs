@@ -5,7 +5,7 @@ class Apartment_Details():
     # common variables
     apartment_name = "Valencia Creations"
 
-    # instance_variables
+    # instance_variables, contructs the value to the variables
     def __init__ (self, name, flat_number, location):
         self.owner_name = name
         self.flat_number = flat_number
