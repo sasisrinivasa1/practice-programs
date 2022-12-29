@@ -10,6 +10,7 @@ class MyClass():
         self.b = b
         return self.a + self.b
 
+# Overloading will work for latest method defined inside the class
 
 obj = MyClass()
 
