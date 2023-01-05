@@ -1,0 +1,1 @@
+r,r+ must create the file again if its already created and overwrites the contents in file
